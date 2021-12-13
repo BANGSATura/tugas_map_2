@@ -5,27 +5,32 @@
       "titikXY": [
         {
           "titikX": 85,
-          "titikY": 149
+          "titikY": 149,
+          "id": 1
         },
 
         {
           "titikX": 207,
-          "titikY":  133
+          "titikY":  133,
+          "id": 2
         },
 
         {
           "titikX": 322,
-          "titikY":  120
+          "titikY":  120,
+          "id": 3
         },
 
         {
           "titikX": 413,
-          "titikY":  106
+          "titikY":  106,
+          "id": 4
         },
 
         {
           "titikX": 551,
-          "titikY":  91
+          "titikY":  91,
+          "id": 5
         }
       ],
       "jalan": "Jl. Asia 2"
@@ -35,27 +40,32 @@
       "titikXY": [
         {
           "titikX": 61,
-          "titikY": 36
+          "titikY": 36,
+          "id": 1
         },
 
         {
           "titikX": 111,
-          "titikY": 29
+          "titikY": 29,
+          "id": 2
         },
 
         {
           "titikX": 186,
-          "titikY": 24
+          "titikY": 24,
+          "id": 3
         },
 
         {
           "titikX": 236,
-          "titikY": 17
+          "titikY": 17,
+          "id": 4
         },
 
         {
           "titikX": 306,
-          "titikY":  9
+          "titikY":  9,
+          "id": 5
         }
       ],
       "jalan": "Jl. Asia 1"
