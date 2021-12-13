@@ -1,0 +1,64 @@
+{
+  "koordinat": [
+    {
+      "id":1,
+      "titikXY": [
+        {
+          "titikX": 85,
+          "titikY": 149
+        },
+
+        {
+          "titikX": 207,
+          "titikY":  133
+        },
+
+        {
+          "titikX": 322,
+          "titikY":  120
+        },
+
+        {
+          "titikX": 413,
+          "titikY":  106
+        },
+
+        {
+          "titikX": 551,
+          "titikY":  91
+        }
+      ],
+      "jalan": "Jl. Asia 2"
+    },
+    {
+      "id": 2,
+      "titikXY": [
+        {
+          "titikX": 61,
+          "titikY": 36
+        },
+
+        {
+          "titikX": 111,
+          "titikY": 29
+        },
+
+        {
+          "titikX": 186,
+          "titikY": 24
+        },
+
+        {
+          "titikX": 236,
+          "titikY": 17
+        },
+
+        {
+          "titikX": 306,
+          "titikY":  9
+        }
+      ],
+      "jalan": "Jl. Asia 1"
+    }
+  ]
+}
